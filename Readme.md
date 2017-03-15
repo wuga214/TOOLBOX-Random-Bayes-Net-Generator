@@ -21,3 +21,15 @@ Note: the stars are big limitation, please if it fits your requirement
 ## Instruction
 Calling this module is very simple. You only need to instantiate one instance of BayesNet class and provide number of variables of the target Bayesian Network.
 
+## Cite
+```
+@misc{wu_2017, 
+title={TOOLBOX:Random Bayes Net Generator}, 
+url={https://github.com/wuga214/TOOLBOX-Random-Bayes-Net-Generator}, 
+journal={GitHub}, 
+publisher={D3M Lab, MIE}, 
+author={Wu, Ga}, 
+year={2017}, 
+month={Mar}}
+```
+
