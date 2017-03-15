@@ -27,7 +27,7 @@ Calling this module is very simple. You only need to instantiate one instance of
 title={TOOLBOX:Random Bayes Net Generator}, 
 url={https://github.com/wuga214/TOOLBOX-Random-Bayes-Net-Generator}, 
 journal={GitHub}, 
-publisher={D3M Lab, MIE}, 
+publisher={D3M Lab, MIE, UofT}, 
 author={Wu, Ga}, 
 year={2017}, 
 month={Mar}}
